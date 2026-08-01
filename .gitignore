@@ -1,0 +1,11 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+
+# Build folder
+build/
+
+# Temporary files
+*.tmp
